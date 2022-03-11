@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan</h1>
 <h4 align="center">:computer:I'm a self-motivated tech enthusiast.:computer:</h4>
-<b><h4 align="center"> :small_red_triangle: I’m currently exploring the world of Machine Learning and Deep learning :small_red_triangle:</h4></b>
+<b><h4 align="center"> :small_red_triangle: I’m currently exploring the world of Web Development:small_red_triangle:</h4></b>
 <h4 align="center">🔷humble in change, bold in action    🔷willing to learn and adapt</h4>
 <h4 align="center">🔷always highly enthused about work   🔷 conscientious team player</h4>
 
@@ -12,7 +12,6 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-singh227/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e84393?style=for-the-badge&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/weedycoder)
     [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:227karansingh@gmail.com)
     </h2>
     
@@ -29,20 +28,12 @@
 
 <br />
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=appveyor)
-![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=appveyor)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-black?style=for-the-badge&logo=appveyor)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-black?style=for-the-badge&logo=appveyor)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=appveyor)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=appveyor)
-![Open CV](https://img.shields.io/badge/-Open_CV-black?style=for-the-badge&logo=appveyor)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=appveyor)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=appveyor)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=appveyor)
 
 #### Currently Learning
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data_Structures_and_Algorithms-black?style=for-the-badge&logo=appveyor)
-![Artificial Neural Network](https://img.shields.io/badge/-Artificial_Neural_Networks-black?style=for-the-badge&logo=appveyor)
 
 
 <br/>
