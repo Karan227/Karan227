@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karan</h1>
 <h4 align="center">:computer:I'm a self-motivated tech enthusiast.:computer:</h4>
-<b><h4 align="center"> :small_red_triangle: I’m currently exploring the world of Web Development:small_red_triangle:</h4></b>
+<b><h4 align="center">I’m currently exploring the world of Web Development</h4></b>
 <h4 align="center">🔷humble in change, bold in action    🔷willing to learn and adapt</h4>
 <h4 align="center">🔷always highly enthused about work   🔷 conscientious team player</h4>
 
