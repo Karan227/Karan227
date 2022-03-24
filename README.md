@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React Js, Node Js, Socket.io, RestFUL API, DSA**
 
-- 👨‍💻 All of my projects are available at [www.webdevkaran.codes](www.webdevkaran.codes)
+- 👨‍💻 All of my projects are available at [www.webdevkaran.codes](fancy-gecko-4c19d1.netlify.app)
 
 - 💬 Ask me about **Anything related to MERN**
 
 - 📫 How to reach me **227karansingh@gmail.com**
 
-- 📄 Know about my experiences [www.webdevkaran.codes](www.webdevkaran.codes)
+- 📄 Know about my experiences [www.webdevkaran.codes](fancy-gecko-4c19d1.netlify.app)
 
 - ⚡ Fun fact **What's a thing a JavaScript developer can't keep? obviously Promises.**
 
